@@ -1,5 +1,6 @@
 ## TOEIC 錯題總表
 	- ### 所有錯題
+	  collapsed:: true
 	  {{query (property type "錯題")}}
 	- ### 待複習
 	  collapsed:: true
