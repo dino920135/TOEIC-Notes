@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["toeic 錯題總表" "toeic 補強計畫" "錯誤傾向"]
+ :favorites ["錯誤傾向" "TOEIC 錯題總表"]
 
  ;; Set flashcards interval.
  ;; Expected value:
