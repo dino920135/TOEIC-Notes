@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["TOEIC 錯題總表"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -315,6 +315,7 @@
  ;; Hide specific block properties.
  ;; Example usage:
  ;; :block-hidden-properties #{:public :icon}
+ :block-hidden-properties #{:type :category}
 
  ;; Create a page for all properties.
  ;; Default value: true
