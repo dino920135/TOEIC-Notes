@@ -133,6 +133,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
+ :default-home {:page "TOEIC 狀態一覽"}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -299,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["toeic 補強計畫" "toeic 錯題總表" "錯誤傾向"]
+ :favorites ["6aa5217a-97a8-44ad-9781-d9697c63195c" "TOEIC 狀態一覽" "toeic 補強計畫" "錯誤傾向"]
 
  ;; Set flashcards interval.
  ;; Expected value:

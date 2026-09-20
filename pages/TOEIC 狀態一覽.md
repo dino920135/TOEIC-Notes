@@ -2,6 +2,9 @@
 狀態說明:: 錯題：待複習 → 已複習｜傾向・補強：改進中 → 已克服。改狀態＝改該區塊的 status 屬性。
 	- ## 今日閃卡
 		- {{cards [[card]]}}
+			- Summary: 22 items, 22 review counts [[Sep 19th, 2026]]
+				- Remembered:   20 (90%)
+				- Forgotten :   2 (9%)
 			- Summary: 9 items, 9 review counts [[Sep 11th, 2026]]
 				- Remembered:   8 (88%)
 				- Forgotten :   1 (11%)s
@@ -23,6 +26,14 @@
 		  collapsed:: true
 		  {{query (and (property type "補強重點") (property status "已克服"))}}
 		- 完整內容 → [[TOEIC 補強計畫]]
+	- ## 主題字彙
+	  collapsed:: true
+		- ### 學習中
+		  {{query (and (property type "字彙") (property status "學習中"))}}
+		- ### 已熟悉
+		  collapsed:: true
+		  {{query (and (property type "字彙") (property status "已熟悉"))}}
+		- 完整內容 → [[TOEIC 主題字彙]]
 	- ## 錯題
 	  collapsed:: true
 		- ### 待複習
