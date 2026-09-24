@@ -19,7 +19,6 @@
 		  {{query (and (property type "錯誤傾向") (property status "已克服"))}}
 		- 完整內容 → [[錯誤傾向]]
 	- ## 分項補強
-	  collapsed:: true
 		- ### 改進中
 		  {{query (and (property type "補強重點") (property status "改進中"))}}
 		- ### 已克服
